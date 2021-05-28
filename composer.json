@@ -1,0 +1,24 @@
+{
+	"name": "pessek/whoviewedme",
+    	"description": "Lists the members who have viewed user profile",
+    	"type": "elgg-plugin",
+    	"license": "proprietary",
+	"keywords": [
+		"elgg",
+		"plugin",
+		"profile"
+	],
+	"authors": [
+		{
+			"name": "Hermand PESSEK",
+			"email": "rhemandaddy@gmail.com"
+		}
+	],
+	"extra": {
+		"installer-name": "whoviewedme"
+	},
+    	"require": {
+		"php": ">=7.1",
+		"composer/installers": "~1.0"
+	}
+}
